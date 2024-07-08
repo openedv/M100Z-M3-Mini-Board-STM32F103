@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;21_flash_eeprom/10_tftlcd_mcu.ioc&apos; to &apos;21_flash_eeprom.ioc&apos;" description="Rename resource &apos;10_tftlcd_mcu.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="10_tftlcd_mcu.ioc" name="21_flash_eeprom.ioc" stamp="1713057288227" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;21_flash_eeprom/11_usmart.ioc&apos; to &apos;21_flash_eeprom.ioc&apos;" description="Rename resource &apos;11_usmart.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="11_usmart.ioc" name="21_flash_eeprom.ioc" stamp="1713057369378" updateReferences="true"/>
+</session>

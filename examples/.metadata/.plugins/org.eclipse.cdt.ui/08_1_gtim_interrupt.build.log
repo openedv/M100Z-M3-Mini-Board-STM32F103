@@ -1,0 +1,10 @@
+12:08:24 **** Incremental Build of configuration Debug for project 08_1_gtim_interrupt ****
+make -j16 all 
+arm-none-eabi-size  08_1_gtim_interrupt.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14952	    112	   2256	  17320	   43a8	08_1_gtim_interrupt.elf
+Finished building: default.size.stdout
+ 
+
+12:08:25 Build Finished. 0 errors, 0 warnings. (took 648ms)
+

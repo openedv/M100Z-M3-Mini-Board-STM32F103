@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;09_1_atim_npwm/04_uart.ioc&apos; to &apos;09_1_atim_npwm.ioc&apos;" description="Rename resource &apos;04_uart.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="04_uart.ioc" name="09_1_atim_npwm.ioc" stamp="1712732791230" updateReferences="true"/>
+</session>

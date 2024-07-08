@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;13_2_lowpower_sleep/13_1_lowpower_pvd.ioc&apos; to &apos;13_2_lowpower_sleep.ioc&apos;" description="Rename resource &apos;13_1_lowpower_pvd.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="13_1_lowpower_pvd.ioc" name="13_2_lowpower_sleep.ioc" stamp="1712884017297" updateReferences="true"/>
+</session>

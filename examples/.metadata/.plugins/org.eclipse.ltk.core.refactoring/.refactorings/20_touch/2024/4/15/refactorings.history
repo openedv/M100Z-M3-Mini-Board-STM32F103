@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;20_touch/10_tftlcd_mcu.ioc&apos; to &apos;20_touch.ioc&apos;" description="Rename resource &apos;10_tftlcd_mcu.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="10_tftlcd_mcu.ioc" name="20_touch.ioc" stamp="1712979812367" updateReferences="true"/>
+</session>

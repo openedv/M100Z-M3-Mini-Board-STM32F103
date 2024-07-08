@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;25_pictures/24_fatfs.ioc&apos; to &apos;25_pictures.ioc&apos;" description="Rename resource &apos;24_fatfs.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="24_fatfs.ioc" name="25_pictures.ioc" stamp="1713081110624" updateReferences="true"/>
+</session>

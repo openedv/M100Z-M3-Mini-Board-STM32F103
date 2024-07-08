@@ -1,0 +1,10 @@
+14:44:32 **** Incremental Build of configuration Debug for project 25_pictures ****
+make -j16 all 
+arm-none-eabi-size  25_pictures.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 112424	    632	  54584	 167640	  28ed8	25_pictures.elf
+Finished building: default.size.stdout
+ 
+
+14:44:33 Build Finished. 0 errors, 0 warnings. (took 1s.131ms)
+

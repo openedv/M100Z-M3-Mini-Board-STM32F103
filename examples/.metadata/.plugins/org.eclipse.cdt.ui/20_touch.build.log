@@ -1,0 +1,10 @@
+17:15:09 **** Incremental Build of configuration Debug for project 20_touch ****
+make -j16 all 
+arm-none-eabi-size  20_touch.elf 
+   text	   data	    bss	    dec	    hex	filename
+  71972	    564	   2284	  74820	  12444	20_touch.elf
+Finished building: default.size.stdout
+ 
+
+17:15:10 Build Finished. 0 errors, 0 warnings. (took 964ms)
+

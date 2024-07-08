@@ -1,0 +1,17 @@
+12:08:03 **** Incremental Build of configuration Debug for project 07_btim ****
+make -j16 all 
+arm-none-eabi-gcc "F:/CubeIDE/h503_Git/m100-m3-mini-board-stm32f103/libraries/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_iwdg.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xE -c -I../Core/Inc -I../BSP/LED -I../BSP/KEY -I../../../libraries/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../../../libraries/Drivers/STM32F1xx_HAL_Driver/Inc -I../../../libraries/Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../../../libraries/Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"libraries/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_iwdg.d" -MT"libraries/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_iwdg.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "libraries/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_iwdg.o"
+arm-none-eabi-gcc -o "07_btim.elf" @"objects.list"   -mcpu=cortex-m3 -T"F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\07_btim\STM32F103VETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="07_btim.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 07_btim.elf
+ 
+arm-none-eabi-size  07_btim.elf 
+arm-none-eabi-objdump -h -S 07_btim.elf  > "07_btim.list"
+   text	   data	    bss	    dec	    hex	filename
+  14196	    112	   2256	  16564	   40b4	07_btim.elf
+Finished building: default.size.stdout
+ 
+Finished building: 07_btim.list
+ 
+
+12:08:04 Build Finished. 0 errors, 0 warnings. (took 1s.782ms)
+

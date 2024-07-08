@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\11_usmart"/>
+			<item value="F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\02_key"/>
+			<item value="F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\04_uart"/>
+			<item value="F:\CubeIDE\04_UART"/>
+			<item value="F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\00_f103"/>
+			<item value="F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU"/>
+			<item value="F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\01_led"/>
+			<item value="F:\CubeIDE\h503_Git\m48-m33-mini-board-stm32h503\examples\01_LED"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="342"/>
+		<item key="DIALOG_Y_ORIGIN" value="279"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

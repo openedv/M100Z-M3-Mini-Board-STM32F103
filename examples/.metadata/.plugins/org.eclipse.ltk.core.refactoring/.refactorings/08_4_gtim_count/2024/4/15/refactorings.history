@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;08_4_gtim_count/08_1_gtim_interrupt.ioc&apos; to &apos;08_4_gtim_count.ioc&apos;" description="Rename resource &apos;08_1_gtim_interrupt.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="08_1_gtim_interrupt.ioc" name="08_4_gtim_count.ioc" stamp="1712732088130" updateReferences="true"/>
+</session>

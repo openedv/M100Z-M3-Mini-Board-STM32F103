@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;12_RTC2/12_RTC.ioc&apos; to &apos;12_RTC2.ioc&apos;" description="Rename resource &apos;12_RTC.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="12_RTC.ioc" name="12_RTC2.ioc" stamp="1712893108903" updateReferences="true"/>
+</session>

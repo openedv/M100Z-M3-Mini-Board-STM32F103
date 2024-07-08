@@ -1,0 +1,10 @@
+10:32:50 **** Incremental Build of configuration Debug for project 02_key ****
+make -j16 all 
+arm-none-eabi-size  02_key.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5184	     24	   1568	   6776	   1a78	02_key.elf
+Finished building: default.size.stdout
+ 
+
+10:32:51 Build Finished. 0 errors, 0 warnings. (took 612ms)
+

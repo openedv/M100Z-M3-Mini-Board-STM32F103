@@ -1,0 +1,10 @@
+10:13:04 **** Incremental Build of configuration Debug for project 17_3_dac_sine_wave ****
+make -j16 all 
+arm-none-eabi-size  17_3_dac_sine_wave.elf 
+   text	   data	    bss	    dec	    hex	filename
+  74972	    484	  10676	  86132	  15074	17_3_dac_sine_wave.elf
+Finished building: default.size.stdout
+ 
+
+10:13:05 Build Finished. 0 errors, 0 warnings. (took 1s.1ms)
+

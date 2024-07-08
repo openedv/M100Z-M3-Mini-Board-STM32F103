@@ -1,0 +1,10 @@
+14:11:19 **** Incremental Build of configuration Debug for project 08_2_gtim_pwm ****
+make -j16 all 
+arm-none-eabi-size  08_2_gtim_pwm.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16876	    112	   2256	  19244	   4b2c	08_2_gtim_pwm.elf
+Finished building: default.size.stdout
+ 
+
+14:11:20 Build Finished. 0 errors, 0 warnings. (took 648ms)
+

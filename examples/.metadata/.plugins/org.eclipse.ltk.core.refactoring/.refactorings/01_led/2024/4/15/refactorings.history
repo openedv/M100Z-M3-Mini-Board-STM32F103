@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Move &apos;BSP&apos; to &apos;01_led&apos;" description="Move &apos;BSP&apos; to &apos;01_led&apos;" destination="/01_led" element1="Debug/BSP" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1712661251193" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;01_led/00_f103.ioc&apos; to &apos;01_led.ioc&apos;" description="Rename resource &apos;00_f103.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="00_f103.ioc" name="01_led.ioc" stamp="1712715153901" updateReferences="true"/>
+</session>

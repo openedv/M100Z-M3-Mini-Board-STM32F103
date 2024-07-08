@@ -1,0 +1,10 @@
+16:10:48 **** Incremental Build of configuration Debug for project 09_3_atim_cplm_pwm ****
+make -j16 all 
+arm-none-eabi-size  09_3_atim_cplm_pwm.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16968	    112	   2256	  19336	   4b88	09_3_atim_cplm_pwm.elf
+Finished building: default.size.stdout
+ 
+
+16:10:48 Build Finished. 0 errors, 0 warnings. (took 654ms)
+

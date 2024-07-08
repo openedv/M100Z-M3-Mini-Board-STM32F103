@@ -1,0 +1,10 @@
+09:04:25 **** Incremental Build of configuration Debug for project 10_tftlcd ****
+make -j16 all 
+arm-none-eabi-size  10_tftlcd.elf 
+   text	   data	    bss	    dec	    hex	filename
+  43352	    116	   2276	  45744	   b2b0	10_tftlcd.elf
+Finished building: default.size.stdout
+ 
+
+09:04:27 Build Finished. 0 errors, 0 warnings. (took 1s.636ms)
+

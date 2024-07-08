@@ -1,0 +1,10 @@
+15:37:16 **** Incremental Build of configuration Debug for project 09_2_atim_compare ****
+make -j16 all 
+arm-none-eabi-size  09_2_atim_compare.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16912	    112	   2256	  19280	   4b50	09_2_atim_compare.elf
+Finished building: default.size.stdout
+ 
+
+15:37:17 Build Finished. 0 errors, 0 warnings. (took 656ms)
+

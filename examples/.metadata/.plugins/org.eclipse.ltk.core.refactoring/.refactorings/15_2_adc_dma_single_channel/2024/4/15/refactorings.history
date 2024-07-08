@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;15_2_adc_dma_single_channel/15_1_adc_single_channel.ioc&apos; to &apos;15_2_adc_dma_single_channel.ioc&apos;" description="Rename resource &apos;15_1_adc_single_channel.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="15_1_adc_single_channel.ioc" name="15_2_adc_dma_single_channel.ioc" stamp="1712902472820" updateReferences="true"/>
+</session>

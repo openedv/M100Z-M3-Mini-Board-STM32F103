@@ -1,0 +1,10 @@
+11:37:58 **** Incremental Build of configuration Debug for project 13_3_lowpower_stop ****
+make -j16 all 
+arm-none-eabi-size  13_3_lowpower_stop.elf 
+   text	   data	    bss	    dec	    hex	filename
+  42088	    120	   2280	  44488	   adc8	13_3_lowpower_stop.elf
+Finished building: default.size.stdout
+ 
+
+11:37:59 Build Finished. 0 errors, 0 warnings. (took 919ms)
+

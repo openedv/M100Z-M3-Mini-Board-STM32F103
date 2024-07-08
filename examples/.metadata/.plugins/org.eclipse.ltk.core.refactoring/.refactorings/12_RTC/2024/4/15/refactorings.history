@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;12_RTC/11_USMART.ioc&apos; to &apos;12_RTC.ioc&apos;" description="Rename resource &apos;11_USMART.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="11_USMART.ioc" name="12_RTC.ioc" stamp="1712820510401" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;12_rtc/12_RTC2.ioc&apos; to &apos;12_rtc.ioc&apos;" description="Rename resource &apos;12_RTC2.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="12_RTC2.ioc" name="12_rtc.ioc" stamp="1712893487924" updateReferences="true"/>
+</session>

@@ -1,0 +1,79 @@
+2024-04-13 09:03:53,063 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-13 09:03:54,310 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-13 09:03:58,382 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-13 09:04:22,551 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 803231488 Bytes (1073741824)
+2024-04-13 09:04:23,715 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 827547216 Bytes (1073741824)
+2024-04-13 09:04:24,541 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 865718272 Bytes (1073741824)
+2024-04-13 09:04:24,732 [INFO] ProjectBuilder:2346 - IP not ready for code generation: Clock
+2024-04-13 09:04:26,022 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2024-04-13 09:04:26,022 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-13 09:04:26,022 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-13 09:04:26,022 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM6_7F1
+2024-04-13 09:04:26,022 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-04-13 09:04:26,022 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DAC
+2024-04-13 09:04:26,022 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-13 09:04:26,022 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-04-13 09:04:26,022 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-13 09:04:26,022 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-13 09:04:26,023 [INFO] CodeGenerator:807 - code generatio: config db path: F:\CubeIDE1.14.1\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-13 09:04:26,143 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\MXTmpFiles\license.tmp_save
+2024-04-13 09:04:26,214 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\MXTmpFiles\license.tmp
+2024-04-13 09:04:26,242 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\gpio.c_save
+2024-04-13 09:04:26,300 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\gpio.c
+2024-04-13 09:04:26,305 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\gpio.h_save
+2024-04-13 09:04:26,355 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\gpio.h
+2024-04-13 09:04:26,509 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\adc.c_save
+2024-04-13 09:04:26,595 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\adc.c
+2024-04-13 09:04:26,598 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\adc.h_save
+2024-04-13 09:04:26,651 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\adc.h
+2024-04-13 09:04:26,660 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\dac.c_save
+2024-04-13 09:04:26,763 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\dac.c
+2024-04-13 09:04:26,767 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\dac.h_save
+2024-04-13 09:04:26,818 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\dac.h
+2024-04-13 09:04:26,833 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\dma.c_save
+2024-04-13 09:04:26,884 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\dma.c
+2024-04-13 09:04:26,888 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\dma.h_save
+2024-04-13 09:04:26,936 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\dma.h
+2024-04-13 09:04:26,946 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\fsmc.c_save
+2024-04-13 09:04:27,008 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\fsmc.c
+2024-04-13 09:04:27,014 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\fsmc.h_save
+2024-04-13 09:04:27,064 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\fsmc.h
+2024-04-13 09:04:27,073 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\tim.c_save
+2024-04-13 09:04:27,141 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\tim.c
+2024-04-13 09:04:27,144 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\tim.h_save
+2024-04-13 09:04:27,194 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\tim.h
+2024-04-13 09:04:27,204 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\usart.c_save
+2024-04-13 09:04:27,277 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\usart.c
+2024-04-13 09:04:27,282 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\usart.h_save
+2024-04-13 09:04:27,334 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\usart.h
+2024-04-13 09:04:27,345 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\stm32f1xx_it.c_save
+2024-04-13 09:04:27,460 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\stm32f1xx_it.c
+2024-04-13 09:04:27,467 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\stm32f1xx_it.h_save
+2024-04-13 09:04:27,520 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\stm32f1xx_it.h
+2024-04-13 09:04:27,531 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\stm32f1xx_hal_msp.c_save
+2024-04-13 09:04:27,609 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\stm32f1xx_hal_msp.c
+2024-04-13 09:04:27,613 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\MXTmpFiles\system.tmp_save
+2024-04-13 09:04:27,663 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\MXTmpFiles\system.tmp
+2024-04-13 09:04:27,675 [INFO] CodeEngine:311 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-04-13 09:04:27,737 [INFO] CodeEngine:335 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\stm32f1xx_hal_conf.h
+2024-04-13 09:04:27,757 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\main.h_save
+2024-04-13 09:04:27,819 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Inc\main.h
+2024-04-13 09:04:27,825 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\main.c_save
+2024-04-13 09:04:27,909 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\17_3_dac_sine_wave\Core\Src\main.c
+2024-04-13 09:04:28,231 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-13 09:04:28,240 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-13 09:04:28,251 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-13 09:04:28,267 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-13 09:04:28,276 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-13 09:04:28,283 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-13 09:04:28,286 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-13 09:04:28,292 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-13 09:04:28,390 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 179mS.
+2024-04-13 09:04:28,395 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-13 09:04:28,616 [INFO] ConfigFileManager:1495 - The Die is : DIE414
+2024-04-13 09:04:28,618 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2024-04-13 09:04:28,620 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2024-04-13 09:04:28,623 [INFO] ApiDbMcu:508 - Load IP Config File for USB_DEVICE
+2024-04-13 09:04:29,870 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1475mS.
+2024-04-13 09:04:29,871 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-13 09:04:29,874 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.

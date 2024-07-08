@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;11_USMART/10_TFTLCD_MCU.ioc&apos; to &apos;11_USMART.ioc&apos;" description="Rename resource &apos;10_TFTLCD_MCU.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="10_TFTLCD_MCU.ioc" name="11_USMART.ioc" stamp="1712817230775" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;11_usmart/10_TFTLCD_MCU.ioc&apos; to &apos;11_usmart.ioc&apos;" description="Rename resource &apos;10_TFTLCD_MCU.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="10_TFTLCD_MCU.ioc" name="11_usmart.ioc" stamp="1712887398016" updateReferences="true"/>
+</session>

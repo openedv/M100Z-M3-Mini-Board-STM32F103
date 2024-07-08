@@ -1,0 +1,10 @@
+15:21:38 **** Incremental Build of configuration Debug for project 09_1_atim_npwm ****
+make -j16 all 
+arm-none-eabi-size  09_1_atim_npwm.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17588	    116	   2260	  19964	   4dfc	09_1_atim_npwm.elf
+Finished building: default.size.stdout
+ 
+
+15:21:39 Build Finished. 0 errors, 0 warnings. (took 662ms)
+

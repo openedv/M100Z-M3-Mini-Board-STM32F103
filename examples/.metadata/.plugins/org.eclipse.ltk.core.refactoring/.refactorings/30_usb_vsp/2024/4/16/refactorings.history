@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;30_usb_vsp/22_malloc.ioc&apos; to &apos;30_usb_vsp.ioc&apos;" description="Rename resource &apos;22_malloc.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="22_malloc.ioc" name="30_usb_vsp.ioc" stamp="1713251865669" updateReferences="true"/>
+</session>

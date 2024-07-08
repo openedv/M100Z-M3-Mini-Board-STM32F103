@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;22_malloc/11_usmart.ioc&apos; to &apos;21_malloc.ioc&apos;" description="Rename resource &apos;11_usmart.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="11_usmart.ioc" name="21_malloc.ioc" stamp="1713058848420" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;22_malloc/21_malloc.ioc&apos; to &apos;22_malloc.ioc&apos;" description="Rename resource &apos;21_malloc.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="21_malloc.ioc" name="22_malloc.ioc" stamp="1713058859317" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;31_freertos_demo/22_malloc.ioc&apos; to &apos;31_freertos_demo.ioc&apos;" description="Rename resource &apos;22_malloc.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="22_malloc.ioc" name="31_freertos_demo.ioc" stamp="1713255637450" updateReferences="true"/>
+</session>

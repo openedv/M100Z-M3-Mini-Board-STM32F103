@@ -1,0 +1,100 @@
+2024-04-11 10:49:43,560 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 887049840 Bytes (1073741824)
+2024-04-11 10:49:43,802 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2024-04-11 10:49:43,802 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-11 10:49:43,802 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-11 10:49:43,802 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-11 10:49:43,802 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-11 10:49:43,802 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-11 10:49:43,803 [INFO] CodeGenerator:807 - code generatio: config db path: F:\CubeIDE1.14.1\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-11 10:49:43,966 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\MXTmpFiles\license.tmp_save
+2024-04-11 10:49:44,029 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\MXTmpFiles\license.tmp
+2024-04-11 10:49:44,091 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\gpio.c_save
+2024-04-11 10:49:44,151 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\gpio.c
+2024-04-11 10:49:44,166 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\gpio.h_save
+2024-04-11 10:49:44,217 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\gpio.h
+2024-04-11 10:49:44,378 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\fsmc.c_save
+2024-04-11 10:49:44,448 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\fsmc.c
+2024-04-11 10:49:44,472 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\fsmc.h_save
+2024-04-11 10:49:44,522 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\fsmc.h
+2024-04-11 10:49:44,533 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\usart.c_save
+2024-04-11 10:49:44,604 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\usart.c
+2024-04-11 10:49:44,617 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\usart.h_save
+2024-04-11 10:49:44,668 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\usart.h
+2024-04-11 10:49:44,687 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\stm32f1xx_it.c_save
+2024-04-11 10:49:44,806 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\stm32f1xx_it.c
+2024-04-11 10:49:44,812 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\stm32f1xx_it.h_save
+2024-04-11 10:49:44,865 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\stm32f1xx_it.h
+2024-04-11 10:49:44,878 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\stm32f1xx_hal_msp.c_save
+2024-04-11 10:49:44,949 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\stm32f1xx_hal_msp.c
+2024-04-11 10:49:44,953 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\MXTmpFiles\system.tmp_save
+2024-04-11 10:49:45,004 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\MXTmpFiles\system.tmp
+2024-04-11 10:49:45,016 [INFO] CodeEngine:311 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-04-11 10:49:45,084 [INFO] CodeEngine:335 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\stm32f1xx_hal_conf.h
+2024-04-11 10:49:45,105 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\main.h_save
+2024-04-11 10:49:45,170 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\main.h
+2024-04-11 10:49:45,176 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\main.c_save
+2024-04-11 10:49:45,244 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\main.c
+2024-04-11 10:49:45,603 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:49:45,611 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:49:45,625 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:49:45,640 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:49:45,648 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:49:45,655 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:49:45,658 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:49:45,663 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:49:45,793 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 209mS.
+2024-04-11 10:49:45,797 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-11 10:49:46,282 [INFO] ConfigFileManager:1495 - The Die is : DIE414
+2024-04-11 10:49:47,234 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1436mS.
+2024-04-11 10:49:47,235 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-11 10:49:47,238 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-04-11 10:54:29,304 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 949987824 Bytes (1073741824)
+2024-04-11 10:54:29,486 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2024-04-11 10:54:29,486 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-11 10:54:29,486 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-11 10:54:29,486 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-11 10:54:29,486 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-11 10:54:29,486 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-11 10:54:29,487 [INFO] CodeGenerator:807 - code generatio: config db path: F:\CubeIDE1.14.1\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-04-11 10:54:29,608 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\MXTmpFiles\license.tmp_save
+2024-04-11 10:54:29,683 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\MXTmpFiles\license.tmp
+2024-04-11 10:54:29,709 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\gpio.c_save
+2024-04-11 10:54:29,814 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\gpio.c
+2024-04-11 10:54:29,821 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\gpio.h_save
+2024-04-11 10:54:29,879 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\gpio.h
+2024-04-11 10:54:29,946 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\fsmc.c_save
+2024-04-11 10:54:30,015 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\fsmc.c
+2024-04-11 10:54:30,021 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\fsmc.h_save
+2024-04-11 10:54:30,071 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\fsmc.h
+2024-04-11 10:54:30,082 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\usart.c_save
+2024-04-11 10:54:30,155 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\usart.c
+2024-04-11 10:54:30,161 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\usart.h_save
+2024-04-11 10:54:30,212 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\usart.h
+2024-04-11 10:54:30,223 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\stm32f1xx_it.c_save
+2024-04-11 10:54:30,336 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\stm32f1xx_it.c
+2024-04-11 10:54:30,343 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\stm32f1xx_it.h_save
+2024-04-11 10:54:30,398 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\stm32f1xx_it.h
+2024-04-11 10:54:30,410 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\stm32f1xx_hal_msp.c_save
+2024-04-11 10:54:30,503 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\stm32f1xx_hal_msp.c
+2024-04-11 10:54:30,509 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\MXTmpFiles\system.tmp_save
+2024-04-11 10:54:30,588 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\MXTmpFiles\system.tmp
+2024-04-11 10:54:30,604 [INFO] CodeEngine:311 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\stm32f1xx_hal_conf.h_save
+2024-04-11 10:54:30,681 [INFO] CodeEngine:335 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\stm32f1xx_hal_conf.h
+2024-04-11 10:54:30,708 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\main.h_save
+2024-04-11 10:54:30,827 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Inc\main.h
+2024-04-11 10:54:30,836 [INFO] CodeEngine:255 - oldGeneratedFile, F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\main.c_save
+2024-04-11 10:54:30,929 [INFO] CodeEngine:279 - Generated code: F:\CubeIDE\h503_Git\m100-m3-mini-board-stm32f103\examples\10_TFTLCD_MCU\Core\Src\main.c
+2024-04-11 10:54:31,297 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:54:31,305 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:54:31,316 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:54:31,331 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:54:31,340 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:54:31,347 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:54:31,350 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:54:31,356 [ERROR] ProjectBuilder:6568 - Problem during Copy of File LICENSE.txt
+2024-04-11 10:54:31,450 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 170mS.
+2024-04-11 10:54:31,455 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-04-11 10:54:31,981 [INFO] ConfigFileManager:1495 - The Die is : DIE414
+2024-04-11 10:54:33,251 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1796mS.
+2024-04-11 10:54:33,252 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-04-11 10:54:33,255 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.

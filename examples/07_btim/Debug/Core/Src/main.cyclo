@@ -1,0 +1,4 @@
+../Core/Src/main.c:70:6:stm32f103ve_show_mesg	1
+../Core/Src/main.c:87:5:main	1
+../Core/Src/main.c:134:6:SystemClock_Config	3
+../Core/Src/main.c:177:6:Error_Handler	1

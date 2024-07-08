@@ -1,0 +1,10 @@
+12:17:22 **** Incremental Build of configuration Debug for project 14_dma ****
+make -j16 all 
+arm-none-eabi-size  14_dma.elf 
+   text	   data	    bss	    dec	    hex	filename
+  46428	    120	   7544	  54092	   d34c	14_dma.elf
+Finished building: default.size.stdout
+ 
+
+12:17:23 Build Finished. 0 errors, 0 warnings. (took 904ms)
+
